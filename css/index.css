@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.mx-auto {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#roadImg {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
